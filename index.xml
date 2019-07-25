@@ -6,10 +6,19 @@
     <description>Recent content on Aretha Green</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 25 Jul 2019 12:00:35 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2019 12:02:45 +0100</lastBuildDate>
     
 	<atom:link href="http://aretha.green/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>http://aretha.green/about/</link>
+      <pubDate>Thu, 25 Jul 2019 12:02:45 +0100</pubDate>
+      
+      <guid>http://aretha.green/about/</guid>
+      <description>This is a placeholder page. Please enjoy this placeholder kitten. </description>
+    </item>
     
     <item>
       <title>Lorem Ipsum</title>
