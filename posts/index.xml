@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Aretha Green</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 10 Jul 2019 18:32:31 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2019 12:00:35 +0100</lastBuildDate>
     
 	<atom:link href="http://aretha.green/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Lorem Ipsum</title>
+      <link>http://aretha.green/posts/lorem-ipsum/</link>
+      <pubDate>Thu, 25 Jul 2019 12:00:35 +0100</pubDate>
+      
+      <guid>http://aretha.green/posts/lorem-ipsum/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ut ultrices elit. Sed dapibus, purus id ullamcorper accumsan, erat odio interdum enim, vel tempus dui nunc lacinia nulla. Cras tincidunt dui quis mauris vestibulum, vestibulum varius ex ornare. Nulla facilisi. Duis condimentum fermentum faucibus. Suspendisse semper commodo ligula, a dapibus felis. Etiam posuere vehicula sapien non mollis. Mauris auctor risus nec diam tincidunt gravida. Quisque aliquam est ante, eget interdum eros lacinia quis.</description>
+    </item>
     
     <item>
       <title>Rich Text</title>
