@@ -3,12 +3,104 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://aretha.green/readme/</loc>
+    <loc>http://aretha.green/</loc>
+    <lastmod>2019-07-10T18:32:31+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://aretha.green/</loc>
+    <loc>http://aretha.green/posts/</loc>
+    <lastmod>2019-07-10T18:32:31+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://aretha.green/posts/rich-text/</loc>
+    <lastmod>2019-07-10T18:32:31+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://aretha.green/posts/post-number-16/</loc>
+    <lastmod>2019-07-10T18:26:32+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://aretha.green/posts/post-number-15/</loc>
+    <lastmod>2019-07-10T18:26:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://aretha.green/posts/post-number-14/</loc>
+    <lastmod>2019-07-10T18:26:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://aretha.green/posts/post-number-13/</loc>
+    <lastmod>2019-07-10T18:26:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://aretha.green/posts/post-number-12/</loc>
+    <lastmod>2019-07-10T18:26:23+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://aretha.green/posts/post-number-11/</loc>
+    <lastmod>2019-07-10T18:26:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://aretha.green/posts/post-number-10/</loc>
+    <lastmod>2019-07-10T18:26:19+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://aretha.green/posts/post-number-9/</loc>
+    <lastmod>2019-07-10T18:26:17+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://aretha.green/posts/post-number-8/</loc>
+    <lastmod>2019-07-10T18:26:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://aretha.green/posts/post-number-7/</loc>
+    <lastmod>2019-07-10T18:26:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://aretha.green/posts/post-number-6/</loc>
+    <lastmod>2019-07-10T18:26:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://aretha.green/posts/post-number-5/</loc>
+    <lastmod>2019-07-10T18:26:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://aretha.green/posts/post-number-4/</loc>
+    <lastmod>2019-07-10T18:26:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://aretha.green/posts/post-number-3/</loc>
+    <lastmod>2019-07-10T18:26:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://aretha.green/posts/post-number-2/</loc>
+    <lastmod>2019-07-10T18:26:03+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://aretha.green/posts/my-first-post/</loc>
+    <lastmod>2019-07-10T18:24:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://aretha.green/readme/</loc>
     <priority>0</priority>
   </url>
   

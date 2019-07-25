@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Aretha Green</title>
-    <link>http://aretha.green/</link>
-    <description>Recent content on Aretha Green</description>
+    <title>Posts on Aretha Green</title>
+    <link>http://aretha.green/posts/</link>
+    <description>Recent content in Posts on Aretha Green</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 10 Jul 2019 18:32:31 +0100</lastBuildDate>
     
-	<atom:link href="http://aretha.green/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://aretha.green/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -175,15 +175,6 @@ The discovery of America, the rounding of the Cape, opened up fresh ground for t
       <guid>http://aretha.green/posts/my-first-post/</guid>
       <description>The history of all hitherto existing society is the history of class struggles.
 Freeman and slave, patrician and plebeian, lord and serf, guild-master and journeyman, in a word, oppressor and oppressed, stood in constant opposition to one another, carried on an uninterrupted, now hidden, now open fight, a fight that each time ended, either in a revolutionary reconstitution of society at large, or in the common ruin of the contending classes.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://aretha.green/readme/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://aretha.green/readme/</guid>
-      <description>Personal website: aretha.green</description>
     </item>
     
   </channel>
