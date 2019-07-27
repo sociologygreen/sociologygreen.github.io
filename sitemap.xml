@@ -3,25 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://aretha.green/posts/hello-world/</loc>
+    <lastmod>2019-07-27T21:45:41+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://aretha.green/about/</loc>
     <lastmod>2019-07-25T12:02:45+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://aretha.green/</loc>
-    <lastmod>2019-07-25T12:02:45+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://aretha.green/posts/lorem-ipsum/</loc>
     <lastmod>2019-07-25T12:00:35+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://aretha.green/posts/</loc>
-    <lastmod>2019-07-25T12:00:35+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -111,6 +104,17 @@
   
   <url>
     <loc>http://aretha.green/readme/</loc>
+  </url>
+  
+  <url>
+    <loc>http://aretha.green/</loc>
+    <lastmod>2019-07-27T21:45:41+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://aretha.green/posts/</loc>
+    <lastmod>2019-07-27T21:45:41+01:00</lastmod>
     <priority>0</priority>
   </url>
   
