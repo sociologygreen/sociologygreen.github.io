@@ -6,10 +6,19 @@
     <description>Recent content on Aretha Green</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 27 Jul 2019 21:45:41 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jul 2019 22:20:58 +0100</lastBuildDate>
     
 	<atom:link href="http://aretha.green/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hello World Two</title>
+      <link>http://aretha.green/posts/hello-world-two/</link>
+      <pubDate>Sat, 27 Jul 2019 22:20:58 +0100</pubDate>
+      
+      <guid>http://aretha.green/posts/hello-world-two/</guid>
+      <description>It&amp;rsquo;s time for another blog post, this time written using new_post!</description>
+    </item>
     
     <item>
       <title>Hello World</title>
