@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://aretha.green/posts/this-is-a-test-post/</loc>
+    <lastmod>2019-07-30T08:21:14+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://aretha.green/posts/desktop-launcher-test/</loc>
     <lastmod>2019-07-27T22:55:08+01:00</lastmod>
   </url>
@@ -118,13 +123,13 @@
   
   <url>
     <loc>http://aretha.green/</loc>
-    <lastmod>2019-07-27T22:55:08+01:00</lastmod>
+    <lastmod>2019-07-30T08:21:14+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://aretha.green/posts/</loc>
-    <lastmod>2019-07-27T22:55:08+01:00</lastmod>
+    <lastmod>2019-07-30T08:21:14+01:00</lastmod>
     <priority>0</priority>
   </url>
   
